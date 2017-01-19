@@ -5,6 +5,13 @@
 邓万航 王永川 闫腾 朱凯豪 赵业隆
 
 
+##UPDATE
+###RNN&LSTM Tutorial
+* [简单的RNN与LSTM介绍](https://www.15yan.com/story/huxAyyeuYAj/)
+* [深度神经网络书籍](https://nndl.github.io)   [第七章](https://nndl.github.io/ch7.pdf)
+* [斯坦福大学公开课](http://study.163.com/course/courseLearn.htm?courseId=1003223001#/learn/video?lessonId=1004111276&courseId=1003223001)：李飞飞主讲，讲的很好，不过课时有点长，另外助教讲的语速有点快。
+
+
 ##第一阶段（2016.12 - 2017.01)
 在这一阶段，我们首先完成基础知识的学习，并学会流行框架的使用。
 ###基础知识的学习
