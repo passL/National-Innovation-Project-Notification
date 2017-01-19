@@ -5,7 +5,7 @@
 邓万航 王永川 闫腾 朱凯豪 赵业隆
 
 
-<br><br>
+<br>
 
 ##UPDATE：RNN&LSTM Tutorial
 * [简单的RNN与LSTM介绍](https://www.15yan.com/story/huxAyyeuYAj/)
