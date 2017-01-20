@@ -6,7 +6,7 @@
 
 
 ##UPDATE：RNN&LSTM Tutorial
-* 国外名书中译版：[深度学习与神经网络](https://github.com/exacity/deeplearningbook-chinese)：这本书知名度很高，中译版也很全。
+* 国外名书中译版：[深度学习与神经网络](https://github.com/exacity/deeplearningbook-chinese)：这本书知名度很高，中译版也很全。可以直接下载整个项目，里面有pdf版本。网页版的不知道为什么不能显示图片。
 * [老师推荐资料：LRCN](http://jeffdonahue.com/lrcn/)：一个LRCN的项目，包含源代码，英文网页。
 * [老师推荐资料：理解LSTM网络](http://www.jianshu.com/p/9dc9f41f0b29)：有基础以后阅读，效果更佳。
 * [老师推荐资料：LSTM与RNN教科书](https://deeplearning4j.org/cn/zh-lstm)：有基础以后阅读，效果更佳。
